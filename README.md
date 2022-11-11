@@ -1,4 +1,4 @@
-👋 Olá! Não sei o que te trouxe até aqui, mas seja muito bem-vindo(a)!
+👋🏾 Olá! Não sei o que te trouxe até aqui, mas seja muito bem-vindo(a)!
 
   Deixe eu me apresentar: 
    
@@ -11,7 +11,7 @@
   
 🌱 Agora estou estudando NODEJS e alguns frameworks no back-end, bem como REACT + NextJS no front.
 
-Dicas e sugestões de como me tornar um dev melhor são muito bem-vindas, então bora trocar uma ideia!
+Dicas e sugestões de como me tornar um dev melhor são muito bem-vindas, então bora trocar uma ideia!🤜🏾🤛🏾
 
 Abraços!
 

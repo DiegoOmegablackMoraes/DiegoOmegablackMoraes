@@ -33,7 +33,8 @@
   Pode-se dizer que minha "linguagem mãe" é aquela que está condenada a morrer desde o século passado, mas que vem até hoje se esquivando dessa maldição e segue a vida firme e forte... isso mesmo, é do COBOL que estou falando.
   Sabemos que o cenário agora é bem diferente, mas até pouco tempo, o setor bancário e COBOL eram quase sinônimos.
 
-  Porém, mesmo tendo sempre trabalhado com "velharia", sempre tive um apreço pelo queridinho dos front-enders, o Javascript... mesmo antes do Es6, quando ainda era considerado "ruinzinho". Sempre me diverti com ele, mas nunca estudei a fundo, porém recentemente, com o JS ficando famosão e sendo usado até em software de geladeira, resolvi me dedicar e aprofundar mais um pouco na linguagem e nas tecnologias que o cercam.
+  Porém, mesmo trabalhando com a "velha panela que faz comida boa", sempre tive um apreço pelo queridinho, ou não, dos front-enders... o Javascript! Mesmo antes do Es6, quando ainda era considerado "ruinzinho", eu já me divertia com ele, mas nunca estudei a fundo.
+  Só que recentemente, com o JS ficando mais robusto e sendo usado até em software de geladeira, resolvi me dedicar e me aprofundar mais um pouco na linguagem e nas tecnologias que o cercam.
   
   
 🌱 Agora estou estudando NODEJS e alguns frameworks no back-end, bem como REACT + NextJS no front.

@@ -5,6 +5,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoOmegablackMoraes&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOmegablackMoraes&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoOmegablackMoraes/DiegoOmegablackMoraes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiegoOmegablackMoraes/DiegoOmegablackMoraes/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DiegoOmegablackMoraes/DiegoOmegablackMoraes/output/github-contribution-grid-snake.svg">
+</picture>
     
 <h2>Stack do momento:</h2>
 <div style="display: inline_block"><br>
@@ -22,13 +28,8 @@
   <a href = "mailto:diego7cardoso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diego-cardoso-moraes-0b04234b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
-#
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoOmegablackMoraes/DiegoOmegablackMoraes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiegoOmegablackMoraes/DiegoOmegablackMoraes/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DiegoOmegablackMoraes/DiegoOmegablackMoraes/output/github-contribution-grid-snake.svg">
-</picture>
-#
+
+
   Não sei o que te trouxe até aqui, mas seja muito bem-vindo(a)!
   
   

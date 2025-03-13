@@ -12,7 +12,7 @@
   </picture>
 </div>
     
-<div>
+<div style="float: left; width: 30%;">
   <h3> Tools that I use: </h3>
   <img align="center" alt="Omega-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Omega-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

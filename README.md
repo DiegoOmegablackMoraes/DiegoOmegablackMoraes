@@ -1,4 +1,4 @@
-# Olá! 👋🏾  Eu Diego sou ! <(°.°)>
+<h1> Olá! 👋🏾  Eu Diego sou ! <(°.°)> </h1>
 
 <div align="center">
   <a href="https://github.com/DiegoOmegablackMoraes">
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOmegablackMoraes&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
     
-## Stack do momento:
+<h2>Stack do momento:</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Omega-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Omega-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,7 +15,8 @@
   <img align="center" alt="Omega-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Omega-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-#
+
+
 <div> 
   <a href="https://www.instagram.com/diegotheblack/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:diego7cardoso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

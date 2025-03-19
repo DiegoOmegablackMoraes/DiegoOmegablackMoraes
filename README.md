@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/diego-cardoso-moraes-0b04234b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ### GitHub Stats
-<a href="https://github.com/DiegoOmegablackMoraes">
+<a href="https://github.com/DiegoOmegablackMoraes"></a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoOmegablackMoraes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOmegablackMoraes&layout=compact&langs_count=7&theme=algolia"/>
 
@@ -26,9 +26,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiegoOmegablackMoraes/DiegoOmegablackMoraes/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DiegoOmegablackMoraes/DiegoOmegablackMoraes/output/github-contribution-grid-snake.svg">
 </picture>
-
-### Repo Cards
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DiegoOmegablackMoraes&repo=github-readme-stats)](https://github.com/DiegoOmegablackMoraes/github-readme-stats)
 
 ###Tools that I use
 <img align="center" alt="Omega-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">

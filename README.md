@@ -1,5 +1,10 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/DiegoOmegablackMoraes/DiegoOmegablackMoraes/blob/main/Code%20typing-bro.png">
 <h1> Olá! 👋🏾  Eu Diego sou ! <(°.°)> </h1>
+
+<p align="justify">Analista de Sistemas e Desenvolvedor no Bradesco, Bacharel em Sistemas de Informação.
+  Pode-se dizer que minha "linguagem mãe" é aquela que está condenada a morrer desde o século passado, mas que vem até hoje se esquivando dessa maldição e segue a vida firme e forte... isso mesmo, é do COBOL que estou falando, hehe! <br>
+  Despertei o intesse no desenvolvimento de aplicações Cloud Native, com microsserviços Java, por isso estou estudando com foco nesta stack agora.
+Dicas e sugestões de como me tornar um dev melhor são muito bem-vindas, então bora trocar uma ideia!🤜🏾🤛🏾
 
 <div align="center">
   <a href="https://github.com/DiegoOmegablackMoraes">
@@ -29,24 +34,6 @@
   <a href = "mailto:diego7cardoso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diego-cardoso-moraes-0b04234b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
-
-
-## Não sei o que te trouxe até aqui, mas seja muito bem-vindo(a)!
-  
-  
-  Deixe eu me apresentar: 
-   
-  Sou Bacharel em Sistemas de Informação e trabalho como Analista de Sistemas no setor bancário.
-  Pode-se dizer que minha "linguagem mãe" é aquela que está condenada a morrer desde o século passado, mas que vem até hoje se esquivando dessa maldição e segue a vida firme e forte... isso mesmo, é do COBOL que estou falando.
-  Sabemos que o cenário agora é bem diferente, mas até pouco tempo, o setor bancário e COBOL eram quase sinônimos.
-
-  Porém, mesmo trabalhando com a "velha panela que faz comida boa", sempre tive um apreço pelo queridinho, ou não, dos front-enders... o Javascript! Mesmo antes do Es6, quando ainda era considerado "ruinzinho", eu já me divertia com ele, mas nunca estudei a fundo.
-  Só que recentemente, com o JS ficando mais robusto e sendo usado até em software de geladeira, resolvi me dedicar e me aprofundar mais um pouco na linguagem e nas tecnologias que o cercam.
-  
-  
-🌱 Agora estou estudando NODEJS e alguns frameworks no back-end, bem como REACT + NextJS no front.
-
-Dicas e sugestões de como me tornar um dev melhor são muito bem-vindas, então bora trocar uma ideia!🤜🏾🤛🏾
 
 Abraços!
 

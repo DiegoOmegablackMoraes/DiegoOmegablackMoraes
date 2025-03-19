@@ -1,10 +1,22 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/DiegoOmegablackMoraes/DiegoOmegablackMoraes/blob/main/Code%20typing-bro.png">
 <h1> Olá! 👋🏾  Eu Diego sou ! <(°.°)> </h1>
 
-<p align="justify">Analista de Sistemas e Desenvolvedor no Bradesco, Bacharel em Sistemas de Informação.
+<p align="justify">
+  Analista de Sistemas e Desenvolvedor no Bradesco, Bacharel em Sistemas de Informação. <br>
   Pode-se dizer que minha "linguagem mãe" é aquela que está condenada a morrer desde o século passado, mas que vem até hoje se esquivando dessa maldição e segue a vida firme e forte... isso mesmo, é do COBOL que estou falando, hehe! <br>
-  Despertei o intesse no desenvolvimento de aplicações Cloud Native, com microsserviços Java, por isso estou estudando com foco nesta stack agora.
-Dicas e sugestões de como me tornar um dev melhor são muito bem-vindas, então bora trocar uma ideia!🤜🏾🤛🏾
+  Despertei o intesse no desenvolvimento de aplicações Cloud Native, com microsserviços Java, por isso estou estudando com foco nesta stack agora. <br>
+  Dicas e sugestões de como me tornar um dev melhor são muito bem-vindas, então bora trocar uma ideia!🤜🏾🤛🏾 <br>
+  
+  <em>Best Regards!</em> <br>
+  E que o bug🐞 esteja com você! <em>Peace</em>✌🏾
+</p>
+
+<div> 
+  <h3> Social </h3>
+  <a href="https://www.instagram.com/diegotheblack/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:diego7cardoso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diego-cardoso-moraes-0b04234b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
 
 <div align="center">
   <a href="https://github.com/DiegoOmegablackMoraes">
@@ -27,17 +39,6 @@ Dicas e sugestões de como me tornar um dev melhor são muito bem-vindas, então
   <img align="center" alt="Omega-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Omega-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-<div> 
-  <h3> Social </h3>
-  <a href="https://www.instagram.com/diegotheblack/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:diego7cardoso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diego-cardoso-moraes-0b04234b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-
-Abraços!
-
-E que o bug🐞 esteja com você! Peace✌🏾
 <!---
 DiegoOmegablackMoraes/DiegoOmegablackMoraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

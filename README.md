@@ -18,8 +18,8 @@
 
 ## Stats & Commits
 <a style="text-decoration: none; display: inline-block; width:100%" href="https://github.com/DiegoOmegablackMoraes">
-<img style="height:200px;" src="https://github-readme-stats.vercel.app/api?username=DiegoOmegablackMoraes&show_icons=true&theme=algolia&count_private=true"/>
-<img style="height:200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOmegablackMoraes&layout=compact&langs_count=7&theme=algolia"/></a>
+<img style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=DiegoOmegablackMoraes&show_icons=true&theme=algolia&count_private=true"/>
+<img style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOmegablackMoraes&layout=compact&langs_count=7&theme=algolia"/></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoOmegablackMoraes/DiegoOmegablackMoraes/output/github-contribution-grid-snake-dark.svg">

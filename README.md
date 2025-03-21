@@ -17,9 +17,9 @@
 <a href="https://www.linkedin.com/in/diego-cardoso-moraes-0b04234b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Stats & Commits
-<a style="text-decoration: none; display: inline-block; width:100%" href="https://github.com/DiegoOmegablackMoraes">
+<a style="text-decoration: none; display: inline-block; width:100%" href="https://github.com/DiegoOmegablackMoraes"></a>
 <img style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=DiegoOmegablackMoraes&show_icons=true&theme=algolia&count_private=true"/>
-<img style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOmegablackMoraes&layout=compact&langs_count=7&theme=algolia"/></a>
+<img style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOmegablackMoraes&layout=compact&langs_count=7&theme=algolia"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoOmegablackMoraes/DiegoOmegablackMoraes/output/github-contribution-grid-snake-dark.svg">
